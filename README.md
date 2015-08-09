@@ -66,6 +66,6 @@ Installation:
 
 #Obligatory Screenfetch
 
-![alt tag](http://i.imgur.com/gaYIzpK.png)
+![alt tag](http://i.imgur.com/hApWT5n.png)
 
 # Enjoy!
