@@ -1,10 +1,10 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Ultra-Flat Yosemite Light
-Comment=A modern flat theme
+Name=YosemiteBlack
+Comment=A modern black theme
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Ultra-Flat Yosemite Light
-MetacityTheme=Ultra-Flat Yosemite Light
+GtkTheme=YosemiteBlack
+MetacityTheme=YosemiteBlack
 ButtonLayout=:minimize,maximize,close
