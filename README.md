@@ -12,6 +12,10 @@ http://gnome-look.org/content/show.php/Ultra-flat-Yosemite?content=168521
 
 -Select the theme in your system settings
 
+#Note
+
+This has only been tested with Ubuntu's Unity-interface. Let me know if you find any problems and I'll try to fix them.
+
 #Recommended icon theme
 
 Rex OS Y
