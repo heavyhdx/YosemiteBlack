@@ -211,7 +211,7 @@ style "murrine-notebook" = "murrine-notebook-bg" {
 
 style "murrine-button"  = "murrine-wider" {
 	bg[NORMAL] = shade (1.08, @bg_color)
-	bg[PRELIGHT] = shade (1.10, @bg_color)
+	bg[PRELIGHT] = shade (0.40, @fg_color)
 	bg[ACTIVE] = shade (0.95, @bg_color)
 	bg[INSENSITIVE] = shade (0.85, @bg_color)
 
@@ -432,7 +432,7 @@ style "murrine-toolbar" = "murrine-thin" {
 
 style "murrine-toolbutton" = "murrine-button" {
 	bg[NORMAL] = shade (1.08, @bg_color)
-	bg[PRELIGHT] = shade (1.10, @bg_color)
+	bg[PRELIGHT] = shade (0.40, @fg_color)
 	bg[SELECTED] = @selected_bg_color
 	bg[ACTIVE] = shade (0.95, @bg_color)
 	bg[INSENSITIVE] = shade (0.85, @bg_color)
@@ -583,7 +583,7 @@ style "xfsm-logout" {
 
 style "xfsm-logout-button" {
 	bg[NORMAL] = shade (1.2, @menu_bg_color)
-	bg[PRELIGHT] = shade (1.4, @menu_bg_color)
+	bg[PRELIGHT] = shade (0.4, @menu_fg_color)
 
 	engine "murrine" {
 	}
