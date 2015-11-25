@@ -6,6 +6,14 @@ This is a pitch black version of the Ultra Flat Yosemite Light theme of gnome-lo
 
 http://gnome-look.org/content/show.php/Ultra-flat-Yosemite?content=168521
 
+This is not being actively developed anymore because I switched to another DE.
+
+Current state is definitely usable, but there are some quirks that need to be ironed out.
+
+Feel free to copy the project and continue it!
+
+Let me know if you do, so I can link yours here.
+
 #How to install
 
 -Copy the folder YosemiteBlack to /usr/share/themes/
